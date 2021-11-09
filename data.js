@@ -205,11 +205,11 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "NAIT Library Makerspace - Nov7",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": false,
+    "fullscreenButton": true,
     "viewControlButtons": false
   }
 };
